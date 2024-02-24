@@ -1,0 +1,2 @@
+# ZhenXun_ZeroBot-Plugin
+一个将ZeroBot插件全部重构为真寻bot插件的仓库
